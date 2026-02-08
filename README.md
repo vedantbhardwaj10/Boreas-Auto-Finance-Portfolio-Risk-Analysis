@@ -63,6 +63,8 @@ This project addresses these gaps through structured analysis and dashboards.
 * **Risk & Repayment Behavior**: DPD buckets, NPA %, overdue trends, high-risk branches
 * **Manager & Channel Oversight**: Portfolio quality, risk concentration, track records
 
+**Dashboard link:**
+> https://app.powerbi.com/links/ONmEj4I1oK?ctid=25d120d6-b16a-44af-bb4b-ac24bb3751c9&pbi_source=linkShare&bookmarkGuid=2efb46df-a44a-4cea-a7d1-e0b9a360dc9e
 ---
 
 ## High-Level Insights

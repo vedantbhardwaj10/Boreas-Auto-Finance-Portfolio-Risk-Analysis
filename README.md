@@ -87,7 +87,7 @@ This project addresses these gaps through structured analysis and dashboards.
 
 1. View `boras_auto_finance_EDA.ipynb` for data preparation and exploratory analysis.
 2. Run `boreas_auto_finance.sql` to recreate schema and analytical queries.
-3. View `Boreas_Auto_Finance_report.pdf` for consolidated insights and dashboard interpretations.
+3. View `Boreas_Auto_Finance_report.pdf` for final consolidated insights and dashboard interpretations.
 
 ---
 

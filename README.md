@@ -1,4 +1,4 @@
-<p align="center">
+<p align="left">
   <img src="Boreas Auto Finance logo_.png" alt="ABC Auto Finance" width="200"/>
 </p>
 

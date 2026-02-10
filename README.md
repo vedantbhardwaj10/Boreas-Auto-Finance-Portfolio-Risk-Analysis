@@ -101,6 +101,9 @@ This project addresses these gaps through structured analysis and dashboards.
 
 This project is created for **learning and portfolio demonstration purposes only**.
 All data is synthetic and does not represent any real individual, institution, or financial entity.
+The company name and logo used in this project are fictional and created solely to mimic a realistic business scenario.
+
+
 
 ---
 

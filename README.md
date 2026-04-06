@@ -1,5 +1,5 @@
 <p align="left">
-  <img src="Boreas Auto Finance logo_.png" alt="ABC Auto Finance" width="200"/>
+  <img src="Boreas Auto Finance logo_.png" alt="ABC Auto Finance" width="900"/>
 </p>
 
 # Boreas Auto Finance Portfolio Risk Analytics
